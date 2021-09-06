@@ -1,4 +1,4 @@
 Mobile Developer Junior
-Flutter, Java, Xamarin Forms
-Python Teacher
+Flutter,
+Python Teacher,
 Creative man
